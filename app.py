@@ -151,6 +151,6 @@ st.markdown("""
 <div class="footer">
 📍 Organized by <b>National Forensic Sciences University (NFSU), Goa Campus</b><br>
 Curti, Ponda, Goa<br><br>
-Contact: ranjit.kolkar@nfsu.ac.in, +91 8618879217
+Contact: sandeep.munjal@nfsu.ac.in, 8587089702  |  ranjit.kolkar@nfsu.ac.in, +91 8618879217
 </div>
 """, unsafe_allow_html=True)
