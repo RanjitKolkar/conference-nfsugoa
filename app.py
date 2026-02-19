@@ -43,8 +43,8 @@ with col2:
     st.markdown("""
     <div style="text-align:center">
         <h3>National Forensic Sciences University, Goa Campus</h3>
-        <h2>One Day Conference</h2>
-        <h1>on Telecom-enabled Frauds Mapping and Mitigation</h1>
+        <h2>One Day Conference on</h2>
+        <h1>Telecom-enabled Frauds Mapping and Mitigation</h1>
         <p><b> 7 March 2026 | 📍 NFSU Goa Campus, Curti, Ponda | 💻 Hybrid Mode</b></p>
     </div>
     """, unsafe_allow_html=True)
