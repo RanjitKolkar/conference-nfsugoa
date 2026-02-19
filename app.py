@@ -123,11 +123,10 @@ st.subheader("👥 Who Should Attend?")
 
 st.markdown("""
 - Researchers & Research Scholars  
-- Faculty Members  
+- Academicians 
 - Law Enforcement Officials  
-- Policy Makers  
 - Telecom & Cyber Security Professionals  
-- Legal Experts  
+- Legal Experts and Policy Makers 
 """)
 
 # ================= FOOTER =================
@@ -136,6 +135,6 @@ st.markdown("""
 <div class="footer">
 📍 Organized by <b>National Forensic Sciences University (NFSU), Goa Campus</b><br>
 Curti, Ponda, Goa<br><br>
-📧 Contact: ranjit.kolkar@nfsu.ac.in
+Contact: ranjit.kolkar@nfsu.ac.in
 </div>
 """, unsafe_allow_html=True)
