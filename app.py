@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Conference on Telecom-enabled Frauds Mapping and Mitigating",
+    page_title="Conference on Telecom-enabled Frauds Mapping and Mitigation",
     page_icon="📡",
     layout="wide",
 )
@@ -44,7 +44,7 @@ with col2:
     <div style="text-align:center">
         <h3>National Forensic Sciences University, Goa Campus</h3>
         <h2>One Day Conference</h2>
-        <h1>Conference on Telecom-enabled Frauds Mapping and Mitigating</h1>
+        <h1>on Telecom-enabled Frauds Mapping and Mitigation</h1>
         <p><b> 7 March 2026 | 📍 NFSU Goa Campus, Curti, Ponda | 💻 Hybrid Mode</b></p>
     </div>
     """, unsafe_allow_html=True)
