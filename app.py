@@ -74,7 +74,7 @@ its cross-border implications, and the critical regulatory and techno-legal meas
 st.subheader("🎯 Conference Sub-Themes")
 
 st.markdown("""
-**1️⃣ Telecom Based Cyber Frauds – Current Challenges and Way Forward**
+**1️⃣ Telecom-enabled Frauds – Current Challenges and Way Forward**
 
 **2️⃣ Regulatory and Techno-legal Challenges in Telecom-enabled Cyber Frauds**
 """)
