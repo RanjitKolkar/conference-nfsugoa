@@ -45,7 +45,7 @@ with col2:
         <h3>National Forensic Sciences University, Goa Campus</h3>
         <h2>One Day Conference</h2>
         <h1>Conference on Mapping and Mitigating Telecom-enabled Frauds</h1>
-        <p><b>📅 7 March 2026 | 📍 NFSU Goa Campus, Curti, Ponda | 💻 Hybrid Mode</b></p>
+        <p><b> 7 March 2026 | 📍 NFSU Goa Campus, Curti, Ponda | 💻 Hybrid Mode</b></p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -95,7 +95,7 @@ Selected papers will be published in:
 """)
 
 # ================= TIMELINE =================
-st.subheader("📅 Conference Timeline")
+st.subheader(" Conference Timeline")
 
 st.markdown("""
 | Event | Date |
