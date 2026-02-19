@@ -141,7 +141,7 @@ st.markdown("""
 <b>Coordinator / Convener:</b> Dr. Sandeep Munjal, Assistant Professor, NFSU Gandhinagar<br>
 <b>Coordinator / Convener:</b> Dr. Panem Charanarur, Assistant Professor, NFSU Goa<br>
 <b>Coordinator / Convener:</b> Dr. Ranjit Kolkar, Assistant Professor, NFSU Goa<br>
-<b>Coordinator / Convener:</b> Mr. Harshal Panchal, Assistant Lecturer, NFSU Goa<br>
+<b>Coordinator / Convener:</b> Mr. Harsh Panchal, Lecturer, NFSU Goa<br>
 
 """, unsafe_allow_html=True)
 
