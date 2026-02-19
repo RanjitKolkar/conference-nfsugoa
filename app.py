@@ -138,7 +138,10 @@ st.markdown("""
 <b>Chief Patron:</b> Dr. J. M. Vyas, Hon'ble Vice-Chancellor, NFSU <br>
 <b>Chair:</b> Prof. (Dr.) Naveen Kumar Chaudhary, Director, NFSU Goa  <br>
 <b>Co-Chair:</b> Dr. Lokesh Chouhan, Dean Academics, NFSU Goa  <br>
+<b>Coordinator / Convener:</b> Dr. Sandeep Munjal, Assistant Professor, NFSU Gandhinagar<br>
+<b>Coordinator / Convener:</b> Dr. Panem Charanarur, Assistant Professor, NFSU Goa<br>
 <b>Coordinator / Convener:</b> Dr. Ranjit Kolkar, Assistant Professor, NFSU Goa<br>
+<b>Coordinator / Convener:</b> Mr. Harshal Panchal, Assistant Lecturer, NFSU Goa<br>
 
 """, unsafe_allow_html=True)
 
