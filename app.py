@@ -139,9 +139,9 @@ st.markdown("""
 <b>Chair:</b> Prof. (Dr.) Naveen Kumar Chaudhary, Director, NFSU Goa  <br>
 <b>Co-Chair:</b> Dr. Lokesh Chouhan, Dean Academics, NFSU Goa  <br>
 <b>Convener:</b> Dr. Sandeep Munjal, Assistant Professor, NFSU Gandhinagar<br>
-<b>Coordinator / Convener:</b> Dr. Panem Charanarur, Assistant Professor, NFSU Goa<br>
-<b>Coordinator / Convener:</b> Dr. Ranjit Kolkar, Assistant Professor, NFSU Goa<br>
-<b>Coordinator / Convener:</b> Mr. Harsh Panchal, Lecturer, NFSU Goa<br>
+<b>Coordinator:</b> Dr. Panem Charanarur, Assistant Professor, NFSU Goa<br>
+<b>Coordinator:</b> Dr. Ranjit Kolkar, Assistant Professor, NFSU Goa<br>
+<b>Coordinator:</b> Mr. Harsh Panchal, Lecturer, NFSU Goa<br>
 
 """, unsafe_allow_html=True)
 
