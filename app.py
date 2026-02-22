@@ -51,6 +51,8 @@ with col2:
 
 st.markdown("---")
 
+
+
 # ================= ABOUT =================
 st.subheader("📌 About the Conference")
 
@@ -151,7 +153,7 @@ with col2:
 
 with col3:
     st.markdown("""
-    <div style="background:#003366;color:white;padding:15px;border-radius:10px;text-align:center;">
+    <div style="background:#e8f0ff;padding:15px;border-radius:10px;text-align:center;">
     <b>🎓 Conference Date</b><br>
     7 March 2026
     </div>
@@ -160,7 +162,7 @@ with col3:
 
 
 # ================= SUBMISSION =================
-st.markdown("## 📎 Submission Portal")
+st.markdown("---")
 
 st.markdown("""
 <div style="text-align:center; margin-top:10px;">
@@ -173,13 +175,12 @@ border:none;
 border-radius:10px;
 font-size:18px;
 cursor:pointer;
-">
-🚀 Submit Your Paper
+">🚀 Submit Your Paper
 </button>
 </a>
 </div>
 """, unsafe_allow_html=True)
-
+st.markdown("---")
 st.info("📌 All submissions must adhere to the prescribed conference format guidelines.")
 # ================= PAPER SUBMISSION FORMAT =================
 st.subheader("📝 Paper Submission Format")
