@@ -92,7 +92,10 @@ policy professionals, and practitioners to present their research through:
 Selected papers will be published in:
 - *NFSU Journal of Cyber Security and Digital Forensics*
 - *NFSU Journal of Forensic Science*
+
 """)
+
+
 
 # ================= TIMELINE =================
 st.subheader(" Conference Timeline")
@@ -117,6 +120,30 @@ st.markdown("""
 </button>
 </a>
 """, unsafe_allow_html=True)
+
+# ================= PAPER SUBMISSION FORMAT =================
+st.subheader("📝 Paper Submission Format")
+
+st.write("""
+All papers must be prepared strictly in **IEEE Conference Format**.
+
+Authors are required to:
+- Use the official IEEE conference template (MS Word or LaTeX)
+- Follow double-column format
+- Maintain proper referencing style as per IEEE guidelines
+- Limit the paper length to 6–8 pages (including references)
+- Ensure originality and avoid plagiarism
+
+Submissions not adhering to IEEE format may be returned for revision.
+""")
+
+st.markdown("""
+🔗 **Download Official IEEE Conference Templates:**
+
+[Click Here to Download IEEE Templates](https://www.ieee.org/conferences/publishing/templates.html)
+""")
+
+st.info("📌 Authors are advised to carefully follow IEEE formatting guidelines before submission.")
 
 # ================= TARGET PARTICIPANTS =================
 st.subheader("👥 Who Should Attend?")
