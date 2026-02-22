@@ -70,13 +70,34 @@ to examine the evolving threat landscape of telecom-enabled frauds,
 its cross-border implications, and the critical regulatory and techno-legal measures required.
 """)
 
-# ================= SUB-THEMES =================
-st.subheader("🎯 Conference Sub-Themes")
+# ================= CONFERENCE THEMES =================
+st.subheader("🎯 Conference Themes")
 
 st.markdown("""
-**1️⃣ Telecom-enabled Frauds – Current Challenges and Way Forward**
+### **Theme 1: Telecom-enabled Frauds – Current Challenges and Way Forward**
 
-**2️⃣ Regulatory and Techno-legal Challenges in Telecom-enabled Cyber Frauds**
+Includes, but is not limited to, the following areas:
+
+1. Phishing, Vishing, and Caller ID Spoofing in telecommunications  
+2. SIM and eSIM vulnerabilities  
+3. Fraudulent OTT-linked communication and impersonation through spoofed caller IDs  
+4. Emerging trends such as SIM Box fraud, IRSF (International Revenue Share Fraud), Wangiri scams, etc.  
+5. Role of Generative AI in telecom frauds, including robocalls and AI-driven phishing  
+6. Mule account misuse and financial layering techniques  
+7. SIM swapping and identity takeover  
+8. OTP interception and authentication bypass mechanisms  
+9. Digital arrest scams, investment fraud, and advanced social engineering techniques  
+10. Cyber-enabled and cyber-dependent telecom frauds  
+11. Cross-border spoofing and organised telecom fraud operations  
+
+
+### **Theme 2: Regulatory and Techno-legal Safeguards to Combat Telecom-enabled Frauds**
+
+1. Regulatory and legal frameworks for safeguarding against telecom-enabled frauds  
+2. Legal remedies, enforcement challenges, and prosecutorial mechanisms  
+3. Global regulatory initiatives and international cooperation frameworks  
+4. Accountability of telecom service providers, OTT platforms, and social media intermediaries  
+5. Victim-centric regulatory and policy approaches to telecom-enabled fraud prevention  
 """)
 
 # ================= CALL FOR PAPERS =================
