@@ -98,48 +98,89 @@ Includes, but is not limited to, the following areas:
 4. Accountability of telecom service providers, OTT platforms, and social media intermediaries  
 5. Victim-centric regulatory and policy approaches to telecom-enabled fraud prevention  
 """)
-
 # ================= CALL FOR PAPERS =================
-st.subheader("📄 Call for Papers")
+st.markdown("## 📄 Call for Papers")
 
-st.write("""
+st.markdown("""
+<div style="
+background-color:#f4f8ff;
+padding:20px;
+border-radius:12px;
+border-left:6px solid #003366;
+">
+
 The conference provides an excellent platform for researchers, academicians, 
-policy professionals, and practitioners to present their research through:
+policy professionals, and practitioners to present original and unpublished research through:
 
-- 🎤 Oral Presentations  
-- 🖼 Poster Presentations  
+<ul>
+<li>🎤 <b>Oral Presentations</b></li>
+<li>🖼 <b>Poster Presentations</b></li>
+</ul>
 
-Selected papers will be published in:
-- *NFSU Journal of Cyber Security and Digital Forensics*
-- *NFSU Journal of Forensic Science*
+Selected high-quality papers will be considered for publication in:
+<ul>
+<li><i>NFSU Journal of Cyber Security and Digital Forensics</i></li>
+<li><i>NFSU Journal of Forensic Science</i></li>
+</ul>
 
-""")
+</div>
+""", unsafe_allow_html=True)
 
 
 
 # ================= TIMELINE =================
-st.subheader(" Conference Timeline")
+st.markdown("## 📅 Conference Timeline")
 
-st.markdown("""
-| Event | Date |
-|-------|------|
-| Paper Submission Deadline | 28 February 2026 |
-| Acceptance Notification | 1 March 2026 |
-| Conference Date | 7 March 2026 |
-""")
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.markdown("""
+    <div style="background:#e8f0ff;padding:15px;border-radius:10px;text-align:center;">
+    <b>📌 Submission Deadline</b><br>
+    28 February 2026
+    </div>
+    """, unsafe_allow_html=True)
+
+with col2:
+    st.markdown("""
+    <div style="background:#e8f0ff;padding:15px;border-radius:10px;text-align:center;">
+    <b>📢 Acceptance Notification</b><br>
+    1 March 2026
+    </div>
+    """, unsafe_allow_html=True)
+
+with col3:
+    st.markdown("""
+    <div style="background:#003366;color:white;padding:15px;border-radius:10px;text-align:center;">
+    <b>🎓 Conference Date</b><br>
+    7 March 2026
+    </div>
+    """, unsafe_allow_html=True)
+
+
 
 # ================= SUBMISSION =================
-st.subheader("📎 Submission Details")
-
+st.markdown("## 📎 Submission Portal")
 
 st.markdown("""
+<div style="text-align:center; margin-top:10px;">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0TRBmJHpeojZS7yQF9aZMZsMxMNVeJgIMMpj9hHDoHCssfg/viewform" target="_blank">
-<button>
-📌 Submit Paper
+<button style="
+background-color:#003366;
+color:white;
+padding:14px 30px;
+border:none;
+border-radius:10px;
+font-size:18px;
+cursor:pointer;
+">
+🚀 Submit Your Paper
 </button>
 </a>
+</div>
 """, unsafe_allow_html=True)
 
+st.info("📌 All submissions must adhere to the prescribed conference format guidelines.")
 # ================= PAPER SUBMISSION FORMAT =================
 st.subheader("📝 Paper Submission Format")
 
