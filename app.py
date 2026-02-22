@@ -132,7 +132,7 @@ Authors are required to:
 - Follow double-column format
 - Maintain proper referencing style as per IEEE guidelines
 - Limit the paper length to 6–8 pages (including references)
-- Ensure originality and avoid plagiarism
+- Ensure originality and avoid plagiarism and AI generated content. 
 
 Submissions not adhering to IEEE format may be returned for revision.
 """)
