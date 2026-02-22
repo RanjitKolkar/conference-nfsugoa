@@ -90,7 +90,6 @@ Includes, but is not limited to, the following areas:
 10. Cyber-enabled and cyber-dependent telecom frauds  
 11. Cross-border spoofing and organised telecom fraud operations  
 
-
 ### **Theme 2: Regulatory and Techno-legal Safeguards to Combat Telecom-enabled Frauds**
 
 1. Regulatory and legal frameworks for safeguarding against telecom-enabled frauds  
