@@ -111,7 +111,7 @@ st.markdown("""
 # ================= SUBMISSION =================
 st.subheader("📎 Submission Details")
 
-st.info("Paper Submission Link: To be provided soon.")
+st.info("Paper Submission Link")
 
 st.markdown("""
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0TRBmJHpeojZS7yQF9aZMZsMxMNVeJgIMMpj9hHDoHCssfg/viewform" target="_blank">
