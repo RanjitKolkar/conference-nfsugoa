@@ -139,7 +139,7 @@ with col1:
     st.markdown("""
     <div style="background:#e8f0ff;padding:15px;border-radius:10px;text-align:center;">
     <b>📌 Submission Deadline</b><br>
-    28 February 2026
+    02 March 2026
     </div>
     """, unsafe_allow_html=True)
 
@@ -147,7 +147,7 @@ with col2:
     st.markdown("""
     <div style="background:#e8f0ff;padding:15px;border-radius:10px;text-align:center;">
     <b>📢 Acceptance Notification</b><br>
-    1 March 2026
+    03 March 2026
     </div>
     """, unsafe_allow_html=True)
 
