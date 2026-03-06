@@ -78,11 +78,18 @@ with col1:
 with col2:
     with open("Telecom_Fraud_Conference_Presentation_Schedule.pdf", "rb") as file:
         st.download_button(
-            label="📄 Download Conference Schedule",
+            label="📄 Download Presentation Schedule",
             data=file,
-            file_name="NFSU_Telecom_Fraud_Conference_Schedule.pdf",
+            file_name="Telecom_Fraud_Conference_Presentation_Schedule.pdf",
             mime="application/pdf"
         )
+     with open("Conference_TelecomFrauds_2026_shedule.pdf", "rb") as file:
+        st.download_button(
+            label="📄 Download Inauguration Schedule",
+            data=file,
+            file_name="Conference_TelecomFrauds_2026_shedule.pdf",
+            mime="application/pdf"
+        )       
 
 st.markdown("---")
 # ================= ABOUT =================
