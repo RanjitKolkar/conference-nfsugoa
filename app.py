@@ -83,7 +83,7 @@ with col2:
             file_name="Telecom_Fraud_Conference_Presentation_Schedule.pdf",
             mime="application/pdf"
         )
-     with open("Conference_TelecomFrauds_2026_shedule.pdf", "rb") as file:
+    with open("Conference_TelecomFrauds_2026_shedule.pdf", "rb") as file:
         st.download_button(
             label="📄 Download Inauguration Schedule",
             data=file,
