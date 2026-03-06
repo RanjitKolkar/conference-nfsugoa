@@ -33,6 +33,9 @@ h1, h2, h3 {
 </style>
 """, unsafe_allow_html=True)
 
+# ================= ONLINE SESSION =================
+
+
 # ================= HEADER =================
 col1, col2 = st.columns([1, 4])
 
@@ -52,7 +55,36 @@ with col2:
 st.markdown("---")
 
 
+st.markdown("### 💻 Join Online Session")
 
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("""
+    <a href="https://meet.google.com/your-meeting-link" target="_blank">
+    <button style="
+    background-color:#0b5ed7;
+    color:white;
+    padding:12px 25px;
+    border:none;
+    border-radius:8px;
+    font-size:16px;
+    cursor:pointer;">
+    🎥 Join Conference Online
+    </button>
+    </a>
+    """, unsafe_allow_html=True)
+
+with col2:
+    with open("Telecom_Fraud_Conference_Presentation_Schedule.pdf", "rb") as file:
+        st.download_button(
+            label="📄 Download Conference Schedule",
+            data=file,
+            file_name="NFSU_Telecom_Fraud_Conference_Schedule.pdf",
+            mime="application/pdf"
+        )
+
+st.markdown("---")
 # ================= ABOUT =================
 st.subheader("📌 About the Conference")
 
